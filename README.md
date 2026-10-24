@@ -20,13 +20,15 @@
 
 <p align="center">
   <img src="assets/screenshots/sign-in.png" width="220" alt="IjubaPay sign-in screen">
-  <img src="assets/screenshots/home.png" width="220" alt="IjubaPay Home with synthetic preview loyalty cards">
+  <img src="assets/screenshots/home.png" width="220" alt="IjubaPay Home during QA with a testing account">
   <img src="assets/screenshots/cards.png" width="220" alt="Saved loyalty cards in IjubaPay">
   <img src="assets/screenshots/wallets.png" width="220" alt="IjubaPay Wallet screen and wallet linking entry point">
 </p>
 
-Screenshots show the actual signed preview with synthetic test data. No real
-account details or completed payments are represented.
+Screenshots show the sign-in screen and authenticated UI during QA with a
+testing account on a local backend. The downloadable APK connects to the
+deployed AWS endpoints listed below. QA screenshots do not establish production
+payment readiness.
 Private card-entry and barcode screens retain their screenshot protections.
 
 ## What you can explore

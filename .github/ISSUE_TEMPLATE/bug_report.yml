@@ -1,0 +1,29 @@
+name: Preview issue
+description: Report a reproducible problem in the Android testnet preview.
+body:
+  - type: markdown
+    attributes:
+      value: "Do not include passwords, access tokens, private keys, or full loyalty card numbers. Backend availability is session-based."
+  - type: input
+    id: version
+    attributes:
+      label: IjubaPay version
+      placeholder: 1.0.0-preview.1
+    validations:
+      required: true
+  - type: input
+    id: android
+    attributes:
+      label: Android version and device
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps, expected result, and actual result
+    validations:
+      required: true
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Redacted screenshots or error text

@@ -1,0 +1,12 @@
+{
+  "applicationId": "com.ijubalabs.ijubapay",
+  "versionName": "1.0.0-preview.1",
+  "versionCode": 1,
+  "minSdk": 24,
+  "signingCertificateSha256": "90bda253cf3862eed040ca6050d36652df7d3f23ba531fa379e625c3e53327c0",
+  "sha256": "62b8dab7767d39c681e842326eb589478d5f8cc7952fef984fa84db008d383ee",
+  "file": "IjubaPay.apk",
+  "walletApi": "https://ijuba-wallet.duckdns.org",
+  "checkoutApi": "https://ijuba-checkout.duckdns.org",
+  "tag": "v1.0.0-preview.1"
+}

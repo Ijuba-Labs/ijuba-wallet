@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108" role="img" aria-labelledby="title">
+  <title id="title">IjubaPay</title>
+  <rect width="108" height="108" rx="20" fill="#F7F4ED"/>
+  <path fill="#000" d="M29 29H86V86H29Z M22 22H79V79H22Z"/>
+  <path fill="#FFC900" d="M26 26H75V75H26Z"/>
+  <path fill="#000" d="M31 37H46V43H31Z M35 43H42V59H35Z M31 59H46V65H31Z M50 37H56V65H50Z M56 37H68V43H56Z M62 43H68V52H62Z M56 52H68V58H56Z"/>
+</svg>

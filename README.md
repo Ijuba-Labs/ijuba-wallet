@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/ijubapay-mark.svg" width="112" height="112" alt="IjubaPay app icon">
+  <img src="assets/ijuba-wallet-icon.png" width="112" height="112" alt="Ijuba Wallet app icon">
 </p>
 
 <h1 align="center">IjubaPay</h1>
